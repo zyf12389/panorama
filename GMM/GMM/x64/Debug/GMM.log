@@ -1,0 +1,34 @@
+﻿生成启动时间为 2017/5/6 15:05:35。
+     1>项目“C:\Users\ww\Desktop\panorama\code\GMM\GMM\GMM.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(112): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(116): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(156): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>main.cpp(159): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>main.cpp(161): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>main.cpp(191): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(296): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(302): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(307): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(313): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(318): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(324): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(329): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(335): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(339): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(345): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(407): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>main.cpp(410): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>main.cpp(412): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>main.cpp(460): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(547): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ww\Desktop\panorama\code\GMM\x64\Debug\GMM.exe" /INCREMENTAL /NOLOGO opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ww\Desktop\panorama\code\GMM\x64\Debug\GMM.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ww\Desktop\panorama\code\GMM\x64\Debug\GMM.lib" /MACHINE:X64 x64\Debug\main.obj
+         GMM.vcxproj -> C:\Users\ww\Desktop\panorama\code\GMM\x64\Debug\GMM.exe
+     1>已完成生成项目“C:\Users\ww\Desktop\panorama\code\GMM\GMM\GMM.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.95
